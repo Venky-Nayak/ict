@@ -72,3 +72,5 @@ with st.form("add_record"):
             st.success("Record added successfully! Please refresh the page to see the update.")
         else:
             st.error("Please fill in all fields.")
+            
+
